@@ -49,3 +49,8 @@ main h2 {
     background-color: green;
     color: white;
 }
+Michel-style {
+    color: rgb(255, 0, 0);
+    background-color: black;
+    padding: 4px;
+}
